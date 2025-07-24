@@ -84,6 +84,6 @@ This project is released under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-## 🤝 Contributing
+## Link to tutorial followed
 
-Contributions are welcome! Feel free to open an issue or submit a pull request to improve features or add new ones.
+https://www.geeksforgeeks.org/c/telecom-billing-system-in-c/
