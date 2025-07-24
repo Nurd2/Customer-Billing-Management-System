@@ -12,8 +12,6 @@ A simple terminal-based application written in C to manage customer phone usage 
 Customer-Billing-System/
 ├── main.c           # Core program source code
 ├── README.md        # Project overview and instructions
-├── .gitignore       # Common C/C++ ignores (e.g., object files)
-└── LICENSE          # Project license (MIT)
 ```
 
 ---
@@ -76,11 +74,6 @@ Customer-Billing-System/
 | `deleteRecord()` | Remove a customer record from the array.                |
 | `displayMenu()`  | Print the main menu options.                            |
 
----
-
-## 📜 License
-
-This project is released under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
